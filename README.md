@@ -8,6 +8,6 @@ Kovaaks Settings Import is designed to import a custom **Engine.ini** configurat
 # Usage
 Simply follow the quick and easy steps below ↓
 
-1. Download [KovaaKs Engine Configs V1.0](https://github.com/southtowne/Kovaaks-Settings-Import/releases/download/KovaaK's/KovaaKs-Engine-Configs-V1.0.bat).
+1. Download [KovaaKs Engine Configs V1.2]([https://github.com/southtowne/Kovaaks-Settings-Import/releases/download/KovaaK's/KovaaKs-Engine-Configs-V1.0.bat](https://github.com/southtowne/Kovaaks-Settings-Import/releases/download/KovaaK's/KovaaKs-Engine-Configs-V1.2.bat)).
 2. Right-click & run it as admin.
 3. Select the options you want!
