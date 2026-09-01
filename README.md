@@ -1,7 +1,7 @@
 # Kovaaks Settings Import
 Kovaaks Settings Import is designed to import a custom **Engine.ini** configuration, custom crosshairs, themes and hitsounds for KovaaK's.
 
-<img width="978" height="512" alt="image" src="https://github.com/user-attachments/assets/35d91c57-3d9e-4273-8926-0a366d9e78a6" />
+<img width="984" height="514" alt="image" src="https://github.com/user-attachments/assets/0f1a35f0-851a-4c70-920f-8b175f90978d" />
 
 ![GitHub Release Downloads](https://img.shields.io/github/downloads/southtowne/Kovaaks-Settings-Import/total)
 
