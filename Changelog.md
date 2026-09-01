@@ -32,6 +32,7 @@
 - Added more CVars which lead to an increase in performance.
 
 *Added*
-- Palette.ini Import
+- Palette.ini Import.
+- More themes imported.
 
 ---
