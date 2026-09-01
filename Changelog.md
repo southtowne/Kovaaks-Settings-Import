@@ -9,4 +9,14 @@
 
 ---
 
+# KovaaKs Engine Configs V1.1 Changelog
 
+**KovaaKs Engine Configs V1.1**
+
+9/1/26
+
+*Changed*
+- Hosting all files on GitHub rather than dropbox now.
+- Revamped repo to reflect all changes.
+
+---
