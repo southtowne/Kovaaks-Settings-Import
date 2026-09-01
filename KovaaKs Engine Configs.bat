@@ -13,14 +13,14 @@ if not %errorlevel% == 0 (
 )
 
 set "STAGE=%TEMP%\KovaaksImportStage"
-set "STAGE_ROOT=%STAGE%\Kovaaks-Settings-Import-c336c97c5b9d1b03dfdd27c352833004c502fb48"
+set "STAGE_ROOT=%STAGE%\Kovaaks-Settings-Import-b5b3a27be9f25e4228bb03d3d10c4e1782517ad8"
 
 if exist "%STAGE%" rd /s /q "%STAGE%" >nul 2>&1
 mkdir "%STAGE%" >nul 2>&1
 
 echo.
 echo  Downloading configs...
-curl.exe -L "https://github.com/southtowne/Kovaaks-Settings-Import/archive/c336c97c5b9d1b03dfdd27c352833004c502fb48.zip" -o "%STAGE%\repo.zip"
+curl.exe -L "https://github.com/southtowne/Kovaaks-Settings-Import/archive/b5b3a27be9f25e4228bb03d3d10c4e1782517ad8.zip" -o "%STAGE%\repo.zip"
 chcp 437 >nul
 powershell.exe -NoProfile -Command "Expand-Archive -Path '%STAGE%\repo.zip' -DestinationPath '%STAGE%' -Force"
 chcp 65001 >nul
